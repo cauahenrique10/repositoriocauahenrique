@@ -1,6 +1,6 @@
 # repositoriocauahenrique
-<h1 align="center">Olá 👋, sou cauahenrique</h1>
-<h3 align="center">meu nome é caua, tenho 18 anos e estou no meu 2 período de anúncios na cesar school,esta é a minha primeira vez na área de tecnologia e esse é o link do meu linkedin www.linkedin.com/in/caua-henrique-melo-almeida-b83744380</h3>
+<h1 align="center">Olá 👋, sou Cauã Henrique</h1>
+<h3 align="center">meu nome é Cauã, tenho 18 anos e estou no 2 período de ADS na cesar school,esta é a minha primeira vez na área de tecnologia e esse é o link do meu linkedin www.linkedin.com/in/caua-henrique-melo-almeida-b83744380</h3>
 
 - 📫 Como entrar em contato comigo **chma@cesar.school**
 
